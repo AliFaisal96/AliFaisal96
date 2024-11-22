@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+My name is Ali and I'm currently persuing my Ph.D at UBC. 
 
 <!--
 **AliFaisal96/AliFaisal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
